@@ -28,16 +28,20 @@ free to experiment with it as you wish.
 
 ### Terminology and things
 
-- generative systems
+- algorithmic
+- computational
+- generative
+- parametric design
+- procedural generation (PCG)
 - algorithmic design
+- generative systems
 - emergent systems
-- reaction-diffusion
 - diffusion-limited aggregation
-- Boids (separation/avoidance, cohesion, alignment)
+- boids (separation/avoidance, cohesion, alignment)
 - Lindenmayer-systems (Sierpinski triangle)
-- Game of life (agent based system)
-- Reaction Diffusions (pattern generation, eg. tropical fish)
-- Craquelure
+- game of life (agent based system)
+- reaction diffusion (pattern generation, eg. tropical fish)
+- craquelure
 
 
 ### Artists
