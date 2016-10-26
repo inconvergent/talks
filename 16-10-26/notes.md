@@ -1,28 +1,25 @@
 # Shepherding Random Numbers
 
 My website: 
-
 http://inconvergent.net
 
 I post a lot of work on twitter:
-
 https://twitter.com/inconvergent
 
 Generative twitter bot:
-
 https://twitter.com/generativebot
 
-The first demo used used during the talk is included in `walkers`
+The first demo shown during the talk is here:
+https://github.com/inconvergent/talks/tree/master/16-10-26/walkers
 
 The rest of my code is on Github:
-
 https://github.com/inconvergent/
 
 _Warning_: The repositories on Github are all more or less works in progress.
 They represent my ideas and experimentation. That means there may be breaking
 changes with no warning. It also means that I am unlikely to accept pull
-requests. Since all the following repositories are MIT licensed you are quite
-free to experiment with it as you wish.
+requests. Since (almost) all the Github repositories are MIT licensed you are
+quite free to experiment with it as you wish.
 
 ## Things i mentioned during the talk
 
@@ -37,10 +34,10 @@ free to experiment with it as you wish.
 - generative systems
 - emergent systems
 - diffusion-limited aggregation
-- boids (separation/avoidance, cohesion, alignment)
-- Lindenmayer-systems (Sierpinski triangle)
+- boids flocking (separation/avoidance, cohesion, alignment)
+- Lindenmayer-systems (L-systems, Sierpinski triangle)
 - game of life (agent based system)
-- reaction diffusion (pattern generation, eg. tropical fish)
+- reaction-diffusion (pattern generation, eg. tropical fish)
 - craquelure
 
 
