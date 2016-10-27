@@ -48,10 +48,10 @@ quite free to experiment with it as you wish.
 - Michael Noll
 - [Vera Molnar](http://collections.vam.ac.uk/search/?listing_type=imagetext&offset=0&limit=15&narrow=1&extrasearch=&q=vera+molnar&commit=Search&quality=0&objectnamesearch=&placesearch=&after=&after-adbc=AD&before=&before-adbc=AD&namesearch=&materialsearch=&mnsearch=&locationsearch=)
 - [Manfred Mohr](http://collections.vam.ac.uk/search/?listing_type=imagetext&offset=0&limit=15&narrow=1&extrasearch=&q=manfred+mohr&commit=Search&quality=0&objectnamesearch=&placesearch=&after=&after-adbc=AD&before=&before-adbc=AD&namesearch=&materialsearch=&mnsearch=&locationsearch=)
-- Jared Tarbell (http://complexification.net)
-- Marius Watz
-- Nervous System (Floraform, http://n-e-r-v-o-u-s.com/)
-- @mothgenerator (https://twitter.com/mothgenerator)
+- Jared Tarbell: http://complexification.net
+- Marius Watz: http://mariuswatz.com
+- Nervous System: Kinematics dress, Floraform, http://n-e-r-v-o-u-s.com/
+- @mothgenerator: https://twitter.com/mothgenerator
 
 
 ### Challenge
