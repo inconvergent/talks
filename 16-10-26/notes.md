@@ -21,9 +21,9 @@ changes with no warning. It also means that I am unlikely to accept pull
 requests. Since (almost) all the Github repositories are MIT licensed you are
 quite free to experiment with it as you wish.
 
-## Things i mentioned during the talk
+## Things I Mentioned (or forgot to mention) During the Talk
 
-### Terminology and things
+### Terminology and Things
 
 - algorithmic
 - computational
@@ -59,9 +59,9 @@ quite free to experiment with it as you wish.
 Consider the "10 000  bowls of oatmeal problem" introduced here:
 http://galaxykate0.tumblr.com/post/139774965871/so-you-want-to-build-a-generator
 
-
 With this in mind: design a system that will continually produce surprising
 results
+
 
 ### Other
 
