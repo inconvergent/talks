@@ -65,9 +65,9 @@ results
 
 ### Other
 
-- [Frieder Nake on generative art. Eyeo2014](https://vimeo.com/104315361)
-- [My essay on generative algorithms](http://inconvergent.net/generative/)
-- https://www.openprocessing.org
+- **I highly recommend this**: [Frieder Nake on generative art. Eyeo2014](https://vimeo.com/104315361) 
+- My essay on generative algorithms: http://inconvergent.net/generative/
+- Processing: https://www.openprocessing.org
 - [Andy Lomas - Cellular Forms](https://vimeo.com/82989945)
 - [Deskriptiv - a unified approach to grown structures](https://www.youtube.com/watch?v=9HI8FerKr6Q)
 - [#PROCJAM 2015](https://www.youtube.com/watch?v=s_eyo_m_hnc&feature=youtu.be)
