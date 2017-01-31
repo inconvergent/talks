@@ -33,6 +33,15 @@ http://inconvergent.net/thoughts-on-generative-art/
 - Nervous System: Kinematics dress, http://n-e-r-v-o-u-s.com/
 
 
+### Demos
+
+Hyphae: http://inconvergent.net/generative/hyphae/
+
+Differential Line: http://inconvergent.net/generative/differential-line/
+
+Sand Spline: http://inconvergent.net/generative/sand-spline/
+
+
 ### Other
 
 - **I highly recommend this**: [Frieder Nake on generative art. Eyeo2014](https://vimeo.com/104315361) 
