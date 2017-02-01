@@ -6,7 +6,7 @@ http://inconvergent.net
 I post a lot of work on twitter:
 https://twitter.com/inconvergent
 
-A lot pf my code is on Github
+A lot of my code is on Github
 https://github.com/inconvergent/
 
 _Warning_: The repositories on Github are all more or less works in progress.
