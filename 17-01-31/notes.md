@@ -1,7 +1,7 @@
 # Shepherding Random Numbers
 
 My website: 
-http://inconvergent.net
+https://inconvergent.net
 
 I post a lot of work on twitter:
 https://twitter.com/inconvergent
@@ -19,7 +19,7 @@ quite free to experiment with it as you wish.
 
 The first part of the talk is largely covered by
 
-http://inconvergent.net/thoughts-on-generative-art/
+https://inconvergent.net/thoughts-on-generative-art/
 
 
 ### Artists
@@ -35,11 +35,11 @@ http://inconvergent.net/thoughts-on-generative-art/
 
 ### Demos
 
-Hyphae: http://inconvergent.net/generative/hyphae/
+Hyphae: https://inconvergent.net/generative/hyphae/
 
-Differential Line: http://inconvergent.net/generative/differential-line/
+Differential Line: https://inconvergent.net/generative/differential-line/
 
-Sand Spline: http://inconvergent.net/generative/sand-spline/
+Sand Spline: https://inconvergent.net/generative/sand-spline/
 
 
 ### Other
