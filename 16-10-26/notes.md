@@ -1,7 +1,7 @@
 # Shepherding Random Numbers
 
 My website: 
-http://inconvergent.net
+https://inconvergent.net
 
 I post a lot of work on twitter:
 https://twitter.com/inconvergent
